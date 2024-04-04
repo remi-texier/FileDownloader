@@ -1,8 +1,8 @@
-# OnToOffline
+# File downloader
 
-## Simple file downloader
+## Simple file downloader that I usually use for downloading batches of pdf
 
-Simple program that download all the files of a web page, I occasionally need it when I need to download lots of pdfs on online courses for example.
+This will download all the files of a web page, I occasionally need it on online courses for example.
 
 The script takes 3 arguments, respectively the URL, the file extension needed (limited to one per call for now) and the destination folder where the files will be stored. If the specified destination folder doesn't exit yet, it will be created.
 
